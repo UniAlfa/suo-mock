@@ -1,0 +1,1212 @@
+#header {
+	padding: 15px 10px 0px 0px;
+}
+.ui-selectcheckboxmenu-list-item {
+	white-space: normal !important; max-width: 800px;
+}
+.ui-noselection-option {
+	height: 22px;
+}
+.ui-menubar .ui-menu-child .ui-menuitem-link {
+	width: 79%;
+}
+.ui-selectonemenu .ui-selectonemenu-label {
+	font: 12px/normal Tahoma, Verdana, Arial, Sans-serif !important; height: 12px !important; overflow: hidden !important; -ms-text-overflow: ellipsis !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.overflow-ellipsis {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.sub_menu ul {
+	left: 155px !important;
+}
+.vertical_align_top td {
+	vertical-align: top;
+}
+.ui-fieldset-content table td {
+	vertical-align: top;
+}
+.caption_def_params {
+	color: rgb(81, 98, 111); line-height: 32px; font-size: 14px; font-weight: bold;
+}
+.ui-chkbox {
+	white-space: nowrap;
+}
+.non-padding-imp {
+	padding: 0px !important;
+}
+#primefacesmessagedlg {
+	margin: auto; left: 0px !important; width: 40% !important; right: 0px; z-index: 2022 !important;
+}
+#primefacesmessagedlg .ui-widget-content.ui-dialog-content {
+	line-height: 1.5em;
+}
+.vertical-align-middle {
+	vertical-align: middle !important;
+}
+.vertical-align-middle td {
+	vertical-align: middle !important;
+}
+.vertical-align-middle div {
+	vertical-align: middle !important;
+}
+.margin-top-0 {
+	margin-top: 0px !important;
+}
+.fixed-column-width {
+	width: 50%;
+}
+.fixed-column-width2 {
+	width: 150%;
+}
+.inputleft {
+	width: 130%; margin-right: 20%;
+}
+.nsd-panel {
+	border: 1px solid rgb(168, 168, 168) !important; border-image: none !important !important; margin-top: 1px; margin-right: auto; margin-left: auto;
+}
+.nsd-panel h3 {
+	margin: 7px 0px;
+}
+.nsd-panel h3.inputs-title {
+	margin: 0px;
+}
+.nsd-column {
+	width: 98%;
+}
+table.nsd-column td {
+	vertical-align: middle !important;
+}
+.nsd-column .select-element {
+	width: 100%; min-width: 100px !important; box-sizing: border-box;
+}
+.nsd-column .select-input {
+	width: 100%; min-width: 100px !important; box-sizing: border-box;
+}
+.select-input.ui-autocomplete {
+	width: 100%; min-width: 100px !important; box-sizing: border-box;
+}
+.select-element-min-width {
+	width: 100%; min-width: 0px !important; box-sizing: border-box;
+}
+.nsd-column .select-input {
+	white-space: nowrap;
+}
+.ui-selectcheckboxmenu .ui-selectcheckboxmenu-label {
+	overflow: hidden; -ms-text-overflow: ellipsis;
+}
+.ui-selectonemenu-filter-container {
+	width: 100% !important;
+}
+.ui-selectonemenu-filter-container input {
+	width: 93% !important;
+}
+.ui-selectonemenu-filter-container span {
+	margin-right: 1% !important;
+}
+.ui-selectonemenu-panel {
+	width: 1%; border-collapse: collapse;
+}
+.deals tr:hover a {
+	text-decoration: underline !important;
+}
+.link-table tr:hover a {
+	text-decoration: underline !important;
+}
+.listColumns ul {
+	columns: 3 auto; -webkit-columns: 3; -moz-columns: 3;
+}
+.filterColumns ul {
+	columns: 3 auto; -webkit-columns: 3; -moz-columns: 3;
+}
+div.ui-state-default.ui-corner-all.ui-widget.ui-chkbox-box {
+	float: left !important;
+}
+.securityTypePanel .ui-selectonemenu-filter-container {
+	width: 100% !important;
+}
+.securityTypePanel .ui-selectonemenu-filter-container input {
+	width: 80% !important;
+}
+.securityTypePanel .ui-selectonemenu-filter-container span {
+	margin-right: 5% !important;
+}
+.amountInputPanel .ui-selectonemenu-filter-container {
+	width: 100% !important;
+}
+.amountInputPanel .ui-selectonemenu-filter-container input {
+	width: 65% !important;
+}
+.amountInputPanel .ui-selectonemenu-filter-container span {
+	margin-right: 5% !important;
+}
+.nsd-column .select-input button {
+	margin-right: 0px;
+}
+.nsd-column td:nth-child(2) {
+	width: 75%; max-width: 300px;
+}
+.nsd-column td:nth-child(3) {
+	width: 0px;
+}
+.radio-table {
+	width: 100%;
+}
+.radio-table-without-label {
+	width: 100%;
+}
+.radio-table td:nth-child(1) {
+	width: 6.5% !important; min-width: 15px;
+}
+.radio-table td:nth-child(3) {
+	width: 6.5% !important; min-width: 15px;
+}
+.radio-table-without-label td:nth-child(1) {
+	width: 8% !important;
+}
+.radio-table-without-label td:nth-child(3) {
+	width: 8% !important;
+}
+.radio-table td:nth-child(2) {
+	width: 20% !important; min-width: 100px;
+}
+.radio-table-without-label td:nth-child(2) {
+	width: 20% !important; min-width: 100px;
+}
+.radio-table td:nth-child(4) {
+	width: 70% !important; min-width: 140px;
+}
+.radio-table-without-label td:nth-child(4) {
+	width: 70% !important; min-width: 140px;
+}
+.nsd-panel > div > table td > table td {
+	vertical-align: middle !important;
+}
+.basket-securities-panel .ui-fieldset-content table td {
+	padding: 5px 10px;
+}
+.limit-card-panel .ui-fieldset-content table td {
+	padding: 5px 10px !important;
+}
+.nsd-column-from-to td:nth-child(1) {
+	width: 3% !important; text-align: left; min-width: 10px;
+}
+.nsd-column-from-to td:nth-child(3) {
+	width: 3% !important; text-align: left; min-width: 10px;
+}
+.nsd-column-from-to td:nth-child(2) {
+	width: 47% !important; text-align: right;
+}
+.nsd-column-from-to td:nth-child(4) {
+	width: 47% !important; text-align: right;
+}
+.nsd-column-required td:nth-child(1).ui-panelgrid-cell::after {
+	color: red; padding-left: 2px; font-size: 1.3em; content: "*";
+}
+.nsd-required-input::after {
+	color: red !important; line-height: 0px; padding-left: 2px !important; font-size: 1.3em !important; content: "*" !important;
+}
+.comment-table {
+	width: 100%; padding-right: 10px;
+}
+.comment-table td {
+	height: inherit !important;
+}
+table.comment-table td {
+	height: inherit !important;
+}
+.command-buttons-panel {
+	margin: 10px 0px; top: 5px; width: 100%; position: relative;
+}
+.command-buttons-panel a {
+	padding: 3px;
+}
+.command-buttons-panel span {
+	padding: 3px;
+}
+.command-buttons-panel-left {
+	text-align: right; float: right; display: inline-block;
+}
+.command-buttons-panel-left a {
+	padding: 3px !important;
+}
+.command-buttons-panel-left span {
+	padding: 3px !important;
+}
+.filter-command-buttons-panel {
+	margin: 10px 20px 10px 0px; float: right; position: relative;
+}
+.filter-command-buttons-panel a {
+	padding: 5px;
+}
+.new-deal-cols {
+	width: 50%;
+}
+.deal-new-tabs {
+	padding: 0px;
+}
+.deal-new-tabs ul.ui-tabs-nav {
+	margin-right: 8px; margin-bottom: -1px;
+}
+input.status-footer-menu {
+	width: 49%; margin-right: 2px;
+}
+.footer-table-cell-status {
+	font: 13px/normal Tahoma, Verdana, Arial, Sans-serif; color: rgb(23, 80, 137); text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.status-disp {
+	display: inherit !important;
+}
+.item-menu-aligner {
+	float: right; display: inline-block;
+}
+.calendar button {
+	margin-top: 0px; margin-right: auto;
+}
+.calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.calendarFilter.ui-calendar > button.ui-datepicker-trigger {
+	margin-bottom: 0px;
+}
+.calendar.ui-calendar > button.ui-datepicker-trigger {
+	margin-bottom: 0px;
+}
+.ui-column-customfilter .calendarFilter.ui-calendar > button.ui-datepicker-trigger {
+	padding: 0px !important; margin-bottom: 0px;
+}
+.ui-column-customfilter .calendarFilter.ui-calendar > button.ui-datepicker-trigger > .ui-button-text {
+	padding: 1px !important;
+}
+.calendarFilter input {
+	width: 110px; text-align: center;
+}
+.ui-datepicker-current-day a {
+	background: rgb(24, 107, 160) !important; color: rgb(255, 255, 255) !important; filter: none !important; -webkit-filter: none;
+}
+.settlementDate input {
+	margin-right: 1px;
+}
+body.noscroll {
+	overflow: hidden;
+}
+.ui-inputNum {
+	width: 100% !important;
+}
+.ui-tabs .ui-tabs-nav {
+	background-color: rgb(255, 255, 255) !important;
+}
+div.ui-widget-content.ui-dialog-content > span.ui-confirm-dialog-severity.ui-icon-alert.ui-icon {
+	background: none !important;
+}
+div.ui-widget-content.ui-dialog-content > span.ui-confirm-dialog-severity.ui-icon-confirm.ui-icon {
+	background: none !important;
+}
+.basket-code .select-input {
+	width: 30%; margin-left: -22%;
+}
+.no-cond-block-column1 {
+	width: 50% !important;
+}
+.no-cond-block-column2 {
+	width: 50% !important; float: right;
+}
+.ui-messages-warn-icon {
+	background: url("../images/buttons/Stop.png") no-repeat left;
+}
+.deal-order-data-table {
+	width: 100%;
+}
+.deal-order-data-table .sub-head {
+	padding-top: 10px !important; padding-bottom: 10px !important; font-size: 1.2em; font-weight: bold;
+}
+.deal-order-data-table .ui-datalist-content {
+	background-color: transparent;
+}
+.deal-order-data-table .ui-datalist-content .ui-datalist-data {
+	margin: 0px; padding: 0px;
+}
+.deal-order-data-table .ui-datalist-content .ui-datalist-data li {
+	list-style-type: none;
+}
+.deal-order-data-table td:nth-child(1) {
+	width: 40%;
+}
+.deal-order-data-table td:nth-child(2) {
+	width: 60%;
+}
+.ui-fieldset-content table td {
+	padding-top: 0px;
+}
+.ui-tabs.deal-new-tabs .ui-tabs-panel {
+	padding: 0px;
+}
+.comment-actions > tbody > tr > td {
+	vertical-align: middle !important;
+}
+.sign-dialog > .ui-dialog-content {
+	overflow: hidden;
+}
+.view-dialog > .ui-dialog-content {
+	overflow: hidden;
+}
+.order-header a {
+	padding: 3px;
+}
+.order-header {
+	left: 15px; right: 15px; position: absolute;
+}
+.order-info-panel {
+	left: 15px; right: 15px; position: absolute;
+}
+.order-header .order-text {
+	text-align: justify; position: absolute;
+}
+.order-actions {
+	top: 60px; right: 0px; position: absolute;
+}
+.sign-dialog .order-info-panel {
+	top: 100px;
+}
+.view-dialog .order-info-panel {
+	top: 50px;
+}
+.order-sign-panel {
+	top: 75px !important;
+}
+.order-info-panel {
+	bottom: 20px;
+}
+.order-info-panel > .ui-widget-header {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;
+}
+.order-info-panel > .ui-panel-content {
+	width: 100%; height: 95%;
+}
+.order-info-fieldset {
+	margin: 0px; border: 1px solid rgb(168, 168, 168) !important; border-image: none !important !important; height: 100%; overflow: scroll; padding-left: 15px; min-width: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px;
+}
+.ui-picklist-caption {
+	padding: 4px 0px; height: 30px; text-align: center; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.ui-picklist-list {
+	border-width: thin !important;
+}
+.ui-selectonemenu-panel .ui-selectonemenu-table {
+	border-spacing: 5px 0;
+}
+.ui-selectonemenu-panel .ui-selectonemenu-table td {
+	border-width: 0px !important;
+}
+.hidden-menu {
+	border: 0px currentColor !important; border-image: none !important !important;
+}
+.hidden-menu .ui-selectcheckboxmenu-label-container {
+	display: none;
+}
+.hidden-menu .ui-selectcheckboxmenu-trigger {
+	display: none;
+}
+.hidden-menu .ui-selectonemenu-label {
+	display: none;
+}
+.hidden-menu .ui-selectonemenu-trigger {
+	display: none;
+}
+.icon-group {
+	padding-right: 19px !important;
+}
+:empty.icon-group {
+	display: none;
+}
+.fix_spacer_cond1 {
+	margin-top: 19%;
+}
+.fix_spacer_cond2 {
+	margin-top: 21%;
+}
+.ui-selectoneradio label {
+	display: inline; white-space: nowrap;
+}
+.ui-menu-list {
+	background: rgb(87, 90, 90) !important;
+}
+.invalid-marking {
+	background-color: rgb(242, 222, 222);
+}
+.hasDatepicker.ui-corner-all.ui-state-default.ui-widget.ui-inputfield {
+	min-width: 100px;
+}
+.ui-state-disabled.ui-corner-all.ui-state-default.ui-widget.ui-inputfield {
+	min-width: 100px;
+}
+.ui-state-highlight {
+	border-color: rgb(170, 170, 170) !important;
+}
+.ui-autocomplete-panel table.ui-autocomplete-table {
+	border-collapse: separate; border-spacing: 0.4em;
+}
+.ui-autocomplete-panel table.ui-autocomplete-table th {
+	border: currentColor; border-image: none;
+}
+.ui-autocomplete-panel table.ui-autocomplete-table td {
+	border: currentColor; border-image: none;
+}
+.dialog-scroll-pane {
+	width: 100%; height: auto; max-height: 500px;
+}
+.order-18y-sign-table {
+	width: 200%; table-layout: fixed;
+}
+.ui-state-disabled + .ui-chkbox-label {
+	color: rgb(204, 204, 204);
+}
+.disabled-text * {
+	color: rgb(204, 204, 204);
+}
+.ui-chkbox .ui-chkbox-label {
+	display: inline; cursor: default !important;
+}
+.no-padding-top-recursive * {
+	padding-top: 0px !important;
+}
+.no-padding-right-recursive * {
+	padding-right: 0px !important;
+}
+.ui-selectcheckboxmenu-items-wrapper {
+	height: auto !important; max-height: 350px;
+}
+.report-deal-row-color-red {
+	background-color: rgba(255, 153, 153, 0.3) !important;
+}
+.report-deal-row-color-green {
+	background-color: rgba(0, 255, 51, 0.3) !important;
+}
+.marking-table td {
+	padding: 5px 10px !important;
+}
+.ui-column-customfilter {
+	min-width: 100%;
+}
+.ui-column-customfilter div.ui-selectonemenu {
+	display: block !important;
+}
+.ui-column-customfilter label.ui-corner-all.ui-inputfield.ui-selectonemenu-label {
+	width: 100%; height: 12px !important;
+}
+.ui-column-customfilter .hasDatepicker .ui-column-customfilter {
+	height: 20px !important;
+}
+div.ui-corner-right.ui-state-default.ui-selectonemenu-trigger {
+	height: 20px !important;
+}
+.ui-column-customfilter .ui-inputfield .ui-column-customfilter .ui-selectonemenu-trigger {
+	height: 20px !important;
+}
+button.ui-datepicker-trigger {
+	height: 22px !important;
+}
+.disabled-control {
+	pointer-events: none;
+}
+.ui-fileupload-buttonbar .ui-icon {
+	margin: 0px !important; padding: 0px !important; border: currentColor; border-image: none; visibility: hidden !important;
+}
+.ui-fileupload {
+	margin: 0px !important; padding: 0px !important; border: currentColor; border-image: none; display: inline-block;
+}
+.ui-fileupload .ui-widget {
+	top: -1px; position: relative;
+}
+.ui-fileupload-content {
+	display: none;
+}
+.ui-fileupload .ui-fileupload-buttonbar {
+	background: none; border: currentColor; border-image: none; height: 24px;
+}
+.ui-fileupload .ui-fileupload-buttonbar .ui-button-text-icon-left .ui-button-text {
+	padding: 0.3em 1em;
+}
+.markup-preview-table {
+	min-width: 1600px;
+}
+.ui-tabs-top.ui-tabs.markup-tabs > .ui-tabs-nav li {
+	top: 1px; margin-right: 3px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.markup-panel {
+	padding-bottom: 40px;
+}
+.ui-corner-right.ui-state-default.ui-selectonemenu-trigger {
+	padding: 0px 5px;
+}
+.editable-column-field {
+	margin: 0px !important; padding: 0px !important;
+}
+.editable-column-field .ui-cell-editor {
+	cursor: text;
+}
+.editable-column-field .ui-cell-editor-input {
+	margin: 5px auto 0px; padding: 3px 4px !important; border-radius: 3px; width: 94% !important; min-height: 14px;
+}
+.editable-column-field .ui-cell-editor-output {
+	margin: 5px auto 0px; padding: 3px 4px !important; border-radius: 3px; width: 94% !important; min-height: 14px;
+}
+.editable-column-field .ui-cell-editor-input {
+	border: 1px solid rgb(99, 177, 229); border-image: none;
+}
+.editable-column-field .ui-cell-editor-output {
+	background-color: white;
+}
+.editable-column-field .ui-cell-editor-input input {
+	padding: 0px !important; border: currentColor !important; border-image: none !important !important; height: 14px !important;
+}
+.editable-column-field .ui-cell-editor-output {
+	border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.rate-type-fix {
+	padding: 0px 2px !important;
+}
+.deal-change-hint-container {
+	margin-top: 2px; display: block;
+}
+.deal-change-hint {
+	color: rgb(255, 51, 51); padding-left: 3px; font-family: Tahoma, Arial, Verdana, Sans-serif !important; font-style: oblique !important;
+}
+td.removed-security {
+	text-decoration: line-through; background-color: rgb(179, 179, 180);
+}
+td.removed-security input {
+	text-decoration: line-through; background-color: rgb(179, 179, 180);
+}
+td.added-security {
+	background-color: rgb(99, 177, 229);
+}
+.notify-panel {
+	padding: 6px; border: 1px solid rgb(168, 168, 168) !important; border-image: none !important !important; display: block; background-color: rgb(255, 255, 31);
+}
+.notify-panel .group-name {
+	padding: 0px 4px; font-weight: bold;
+}
+.notify-panel .mdash {
+	padding: 0px 4px;
+}
+.notify-panel .item {
+	padding-left: 4px;
+}
+.pos-report .ui-datatable-odd {
+	background: none;
+}
+.pos-report .ui-datatable-summaryrow {
+	background: none;
+}
+.no-border {
+	border: currentColor !important; border-image: none !important !important;
+}
+.no-border-left {
+	border-left-color: currentColor !important; border-left-width: medium !important; border-left-style: none !important;
+}
+.no-border-top {
+	border-top-color: currentColor !important; border-top-width: medium !important; border-top-style: none !important;
+}
+.no-border-right {
+	border-right-color: currentColor !important; border-right-width: medium !important; border-right-style: none !important;
+}
+.pos-report .ui-datatable-summaryrow td {
+	font-weight: bold;
+}
+.actial-date.icon-group {
+	top: 10px; position: relative;
+}
+.add-all-hidden.priority-dialog .ui-picklist-button-add-all {
+	display: none;
+}
+.substitution-tooltip {
+	width: 200px;
+}
+.liquidity-account-ncc- {
+	width: 250px;
+}
+.liquidity-account-nsd- {
+	width: 250px;
+}
+.liquidity-schedule-inn- {
+	width: 300px;
+}
+.reportView .radio-box label {
+	margin-left: 10px;
+}
+.reportView .column-width-25 {
+	width: 25%;
+}
+#substitutionWizard {
+	clear: both;
+}
+#substitutionWizard .ui-fieldset-legend {
+	width: 100%;
+}
+#substitutionWizard .ui-fieldset {
+	margin: 0px; padding: 20px 10px; border-top-left-radius: 0px; border-top-right-radius: 0px;
+}
+.background-white {
+	background-color: rgb(255, 255, 255);
+}
+.no-border-bottom-radius > .ui-widget-header {
+	border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;
+}
+.substitution-step1 {
+	width: 50%;
+}
+.section-group {
+	width: calc(50% - 88px);
+}
+.section-group table {
+	width: 100%;
+}
+.section-group table tr td:first-child {
+	width: 25%;
+}
+.section-group table tr td:nth-child(2) {
+	width: 2%;
+}
+#substitutionWizard .ui-fieldset-content table td {
+	padding: 4px 10px;
+}
+#substitutionWizard .leftColumn {
+	border-bottom-color: black !important; border-bottom-width: 1px !important; border-bottom-style: solid !important;
+}
+#substitutionWizard .rightColumn {
+	border-bottom-color: black !important; border-left-color: black !important; border-bottom-width: 1px !important; border-left-width: 1px !important; border-bottom-style: solid !important; border-left-style: solid !important;
+}
+.substitution-tooltip {
+	width: 200px;
+}
+.defaultparams-tooltip {
+	width: 500px;
+}
+.defaultparams-table thead {
+	display: none;
+}
+.withdraw-table .ui-treetable thead th {
+	white-space: normal !important;
+}
+.withdraw-table .ui-treetable tbody td {
+	white-space: normal !important;
+}
+.withdraw-table .ui-treetable tfoot td {
+	white-space: normal !important;
+}
+button.pressed {
+	border: 1px solid rgb(112, 150, 171) !important; border-image: none !important !important; color: rgb(49, 49, 49) !important; font-weight: bold !important;
+}
+.order-info-fieldset .ui-datatable-tablewrapper {
+	overflow: visible !important;
+}
+.disable-scroll .ui-dialog-content {
+	height: auto !important; overflow: hidden !important;
+}
+.section-group-panel table {
+	width: 99%;
+}
+.section-group-panel table tr td {
+	padding: 4px 0px !important;
+}
+.section-group-panel table tr td:first-child {
+	width: 15%;
+}
+.section-group-panel .ui-grid {
+	margin-right: -1px;
+}
+.ui-tabs.balance-list-tabs .ui-tabs-panel {
+	padding: 0px;
+}
+.ui-tabs.notification-settings-tabs .ui-tabs-panel {
+	padding: 0px;
+}
+.actions-panel-wrapper {
+	padding: 0px 3px 0px 0px;
+}
+.actions-panel-wrapper .actions-panel {
+	margin-top: -28px; float: right; display: inline-block;
+}
+.actions-panel-wrapper .alone.actions-panel {
+	margin-top: -36px !important;
+}
+.action-left {
+	margin-top: -60px; margin-left: 5px; position: absolute;
+}
+.orderlist tr:hover a {
+	text-decoration: underline !important;
+}
+.no-text-decoration:hover {
+	text-decoration: none !important;
+}
+.substitution-error .pe-inputNumber {
+	border: 1px solid rgb(205, 10, 10) !important; border-image: none !important !important;
+}
+.client-tabs .ui-tabs-panel {
+	padding: 0px;
+}
+.ui-datatable-footer {
+	width: 64px !important; float: right !important;
+}
+.listwnd {
+	background: url("../images/buttons/dots.png") no-repeat right 5px center rgb(255, 255, 255) !important; padding: 3px 20px 3px 4px; border-radius: 3px; border: 1px solid rgb(153, 153, 153); border-image: none; cursor: default !important;
+}
+input.ui-state-focus.ui-state-disabled {
+	border: 1px solid rgb(204, 204, 204) !important; border-image: none !important !important;
+}
+span.ui-state-disabled input.ui-state-focus {
+	border: 1px solid rgb(204, 204, 204) !important; border-image: none !important !important;
+}
+input.ui-state-disabled {
+	cursor: default !important;
+}
+span.ui-state-disabled input {
+	cursor: default !important;
+}
+input[type='text']:disabled:-ms-input-placeholder.listwnd {
+	color: transparent !important;
+}
+input[type='text']:disabled:-ms-input-placeholder.conditions-field {
+	color: transparent !important;
+}
+input::-ms-clear {
+	display: none;
+}
+input[type='text'].disabled {
+	opacity: 0.6;
+}
+span.disabled input[type='text'] {
+	opacity: 0.6;
+}
+.x.listwnd {
+	background: url("../images/buttons/cancel.gif") no-repeat right 5px center rgb(255, 255, 255) !important;
+}
+.onX.listwnd {
+	cursor: pointer;
+}
+.listwnd::-ms-clear {
+	width: 0px; height: 0px; display: none;
+}
+textarea.high-field {
+	box-sizing: border-box;
+}
+.ui-growl#noticeGrowl_container {
+	margin: auto !important; left: inherit !important; top: 1% !important; right: 1% !important; display: block !important; position: absolute !important; opacity: 0.8;
+}
+.security-link:hover {
+	color: rgb(79, 79, 79) !important; text-decoration: underline !important; cursor: pointer;
+}
+.ui-state-disabled.security-link {
+	color: rgb(79, 79, 79); opacity: 1;
+}
+.ui-state-disabled.security-link:hover {
+	text-decoration: none !important; cursor: default;
+}
+.nowrap-table table th {
+	padding: 3px; white-space: nowrap !important;
+}
+.dialog-parent table th {
+	padding: 3px; white-space: nowrap !important;
+}
+.nowrap-table table div input {
+	width: 100% !important; box-sizing: border-box !important;
+}
+.nowrap-table div.ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	width: 100% !important; box-sizing: border-box !important;
+}
+.nowrap-table div.ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu label {
+	white-space: nowrap !important;
+}
+.menu-item-icon {
+	width: 25px;
+}
+.ui-datatable-scrollable-body {
+	height: auto !important; max-height: 250px;
+}
+.listwnd-datatable table {
+	table-layout: fixed !important;
+}
+.listwnd-datatable .ui-datatable-scrollable-header {
+	background: rgb(255, 255, 255) !important; padding-right: 15px !important;
+}
+.listwnd-datatable .ui-datatable-scrollable-body {
+	-ms-overflow-x: auto !important; -ms-overflow-y: scroll !important; max-height: 400px !important;
+}
+.ui-datatable-scrollable-body {
+	border-right-color: rgb(168, 168, 168); border-right-width: 1px; border-right-style: solid;
+}
+.ui-datatable-scrollable-header {
+	border-right-color: rgb(168, 168, 168); border-right-width: 1px; border-right-style: solid;
+}
+.agreement-info-link {
+	text-decoration: underline;
+}
+.agreement-info-links {
+	background: rgb(217, 237, 247); margin-left: 10px;
+}
+.agreement-ui-messages-info {
+	margin: 10px 0px; padding: 15px 10px 10px; border-radius: 3px; border: 1px solid rgb(188, 232, 241); border-image: none; color: rgb(58, 135, 173); background-color: rgb(217, 237, 247);
+}
+.select-min-width-0 {
+	width: 100%; min-width: 0px !important;
+}
+.cond2-table tr:nth-child(2) > td:nth-child(1) {
+	display: block;
+}
+a.validation-error {
+	color: rgb(185, 65, 72) !important; background-color: rgb(242, 222, 222);
+}
+.validation-label-error {
+	color: rgb(185, 65, 72) !important; background-color: rgb(242, 222, 222);
+}
+.error-message-resizable {
+	white-space: normal; -ms-word-wrap: break-word;
+}
+.btn-error > button:nth-child(2) {
+	border: 1px solid rgb(185, 65, 72) !important; border-image: none !important !important;
+}
+.listwnddialog table input {
+	width: 100% !important; box-sizing: border-box !important;
+}
+.editable-table .ui-datatable-footer {
+	background: rgb(255, 255, 255) !important; border: 1px solid rgb(255, 255, 255) !important; border-image: none !important !important; width: 32px !important; padding-right: 32px; float: right !important;
+}
+.empty.editable-table .ui-datatable-footer {
+	padding-right: 0px !important;
+}
+.editable-table span.disabled input {
+	border-color: rgb(168, 168, 168) !important;
+}
+.editable-table input.ui-state-focus.disabled {
+	border-color: rgb(168, 168, 168) !important;
+}
+.editable-table div.output {
+	overflow: hidden; white-space: nowrap; min-height: 23px;
+}
+.editable-table .row-buttons {
+	background: rgb(255, 255, 255); border: currentColor; border-image: none; width: 16px; padding-top: 3px; padding-bottom: 5px; padding-left: 7px; vertical-align: middle;
+}
+.basket-select-width {
+	width: calc(100% - 26px); min-width: 25px !important;
+}
+.date-minimized-column .calendarFilter input {
+	width: 100px; text-align: center; text-indent: -26px;
+}
+.date-time-minimized-column .calendarFilter input {
+	width: 100px; text-align: center; text-indent: -26px;
+}
+.agreement-trdDt .calendarFilter input {
+	width: 100px; text-align: center; text-indent: -26px;
+}
+.client-person-regist-date .calendarFilter input {
+	width: 100px; text-align: center; text-indent: -26px;
+}
+.limitCard-date-time .calendarFilter input {
+	width: 100px; text-align: center; text-indent: -26px;
+}
+.date-minimized-column .calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.date-time-minimized-column .calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.agreement-trdDt .calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.client-person-regist-date .calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.limitCard-date-time .calendarFilter button {
+	margin-top: 0px; margin-right: auto;
+}
+.minimized-column.report-trade-place .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.blotter-deal-place .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.blotter-contragent-process-status .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.blotter-process-status .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.order-list-type-name .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.order-list-type-state .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.report-list-type-name .ui-corner-all.ui-state-default.ui-widget.ui-selectonemenu {
+	min-width: 100% !important;
+}
+.minimized-column.agreement-agr-stat {
+	width: 50px; max-width: 50px;
+}
+.minimized-column.balance-list-field-disc {
+	width: 50px; max-width: 50px;
+}
+.minimized-column.freeLimit-list-securityType {
+	width: 50px; max-width: 50px;
+}
+.minimized-column.blotter-percent-method {
+	width: 50px; max-width: 50px;
+}
+.minimized-column.report-liab {
+	width: 60px; max-width: 60px;
+}
+.minimized-column.blotter-reassessment-limit {
+	width: 60px; max-width: 60px;
+}
+.minimized-column.blotter-calculation-type {
+	width: 60px; max-width: 60px;
+}
+.minimized-column.blotter-reuse-provision {
+	width: 60px; max-width: 60px;
+}
+.minimized-column.blotter-auto-marg {
+	width: 60px; max-width: 60px;
+}
+.minimized-column.report-list-type-code {
+	width: 60px; max-width: 60px;
+}
+.currency-minimized-column {
+	width: 70px; max-width: 70px;
+}
+.minimized-column.agreement-trd-ref {
+	width: 80px; max-width: 80px;
+}
+.post-index-minimized-column {
+	width: 80px; max-width: 80px;
+}
+.minimized-column.client-person-c {
+	width: 80px; max-width: 80px;
+}
+.minimized-column.blotter-interest-rate-type {
+	width: 80px; max-width: 80px;
+}
+.minimized-column.report-list-type-links {
+	width: 80px; max-width: 80px;
+}
+.minimized-column.client-document-seria {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.agreement-prt-nsd-cd {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.report-int-meth {
+	width: 100px; max-width: 100px;
+}
+.date-minimized-column {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.balance-list-field-security-code {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.order-list-type-code {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.blotter-general-agreement {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.report-trade-place {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.blotter-deal-place {
+	width: 100px; max-width: 100px;
+}
+.minimized-column.client-person-regist-date {
+	width: 110px; max-width: 110px;
+}
+.minimized-column.client-kpp {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.client-law {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.client-registr-c {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.agreement-reg-nb {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.agreement-aff-prts {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.agreement-trdDt {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.blotter-process-status {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.blotter-contragent-process-status {
+	width: 120px; max-width: 120px;
+}
+.minimized-column.limitCard-date-time {
+	width: 125px; max-width: 125px;
+}
+.date-time-minimized-column {
+	width: 135px; max-width: 135px;
+}
+.minimized-column.account-list-field-section-code {
+	width: 150px; max-width: 150px;
+}
+.minimized-column.account-list-field-acc-code {
+	width: 150px; max-width: 150px;
+}
+.minimized-column.order-list-type-state {
+	width: 150px; max-width: 150px;
+}
+.minimized-column.agreement-agr-vrsn {
+	width: 190px; max-width: 190px;
+}
+.minimized-column.agreement-agr-tp {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.client-full-latin-name {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.client-short-name {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.client-full-name {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.client-latin-name {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.report-sum {
+	width: 200px; max-width: 200px;
+}
+.minimized-column.order-list-type-name {
+	width: 550px; max-width: 550px;
+}
+input.suo-state-error {
+	border-color: rgb(205, 10, 10) !important;
+}
+.suo-state-error input {
+	border-color: rgb(205, 10, 10) !important;
+}
+.white-space-normal {
+	white-space: normal !important;
+}
+.validation-input-panel {
+	position: relative;
+}
+.validation-input-panel .validation-message {
+	left: 0px; right: 0px; white-space: normal; position: absolute;
+}
+.minimized-column.blotter-process-status {
+	min-width: 100px;
+}
+.minimized-column.blotter-contragent-process-status {
+	min-width: 100px;
+}
+.ui-growl {
+	background-color: transparent !important;
+}
+.ui-shadow.ui-helper-hidden.ui-corner-all.ui-state-highlight.ui-growl-item-container {
+	opacity: 1; background-color: rgb(255, 255, 255) !important;
+}
+.empty.editable-table.marking-table {
+	width: calc(100% - 33px);
+}
+.ui-datatable .ui-sortable-column-icon {
+	margin: 0px !important; display: inline-block;
+}
+.date-minimized-column .ui-column-title {
+	width: calc(100% - 16px);
+}
+.currency-minimized-column .ui-column-title {
+	width: calc(100% - 16px);
+}
+.date-time-minimized-column .ui-column-title {
+	width: calc(100% - 16px);
+}
+.post-index-minimized-column .ui-column-title {
+	width: calc(100% - 16px);
+}
+.minimized-column .ui-column-title {
+	width: calc(100% - 16px);
+}
+.ui-column-title {
+	overflow: hidden; display: inline-block; -ms-text-overflow: ellipsis;
+}
+.ui-state-focus.ui-state-disabled.listwnd {
+	border: 1px solid rgb(204, 204, 204) !important; border-image: none !important !important;
+}
+.listwnd {
+	cursor: default;
+}
+.width-20 {
+	width: 20% !important;
+}
+.width-15 {
+	width: 15% !important;
+}
+.margin-bottom-15 {
+	margin-bottom: 15px;
+}
+.price-list-group-options-table {
+	margin-left: 15px; display: inline;
+}
+.price-list-group-options-table td {
+	text-align: center; vertical-align: middle;
+}
+.price-list-group-options-table td:nth-child(2n+1) {
+	padding-right: 5px;
+}
+table.no-padding-top-bottom-table-cell > tbody > tr.ui-widget-content > td.ui-panelgrid-cell {
+	padding-top: 0px !important; padding-bottom: 0px !important;
+}
+.table-break-word-cells tr td {
+	-ms-word-wrap: break-word;
+}
+.liquidity-conditions-editable-table tr th:nth-child(2) {
+	width: 30%;
+}
+.liquidity-conditions-editable-table tr td:nth-child(2) {
+	width: 30%;
+}
+.liquidity-conditions-editable-table tr td:nth-child(2) {
+	text-align: center; padding-top: 10px;
+}
+.liquidityConditionsDialogCommands {
+	width: 100%; text-align: right; padding-right: 30px; float: right;
+}
+.marking-estimate-panel {
+	padding: 10px; border: 1px solid rgb(168, 168, 168) !important; border-image: none !important !important; margin-top: 15px; display: inline-block;
+}
+.marking-estimate-panel .estimate-basket-panel tr > td:nth-child(2) {
+	padding-top: 0px !important;
+}
+.mark-estimate-tooltip {
+	width: 450px;
+}
+.mark-estimate-tooltip table.ui-panelgrid tr td {
+	color: white !important; line-height: 1.5 !important; font-size: 1.1em !important; background-color: rgb(76, 76, 76) !important;
+}
+.par-section-tooltip table tr td {
+	color: white !important; line-height: 1.5 !important; font-size: 1.1em !important; background-color: rgb(76, 76, 76) !important;
+}
+.conditions-field {
+	min-width: 60px !important;
+}
+.par-section-tooltip .ui-tooltip-text {
+	padding: 10px;
+}
+.version {
+	top: -65px; text-align: left; right: 15px; clear: right; float: right; position: relative;
+}
+.exit {
+	top: -40px; text-align: left; right: 15px; clear: right; float: right; position: relative;
+}
+.alone-column {
+	width: 650px;
+}
+.page-link {
+	color: rgb(81, 98, 111) !important; padding-top: 0px !important; font-weight: bold !important; margin-top: 0px !important;
+}
+.dashboard-ticket-link {
+	padding: 0px 10px;
+}

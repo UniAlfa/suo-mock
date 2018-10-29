@@ -1,0 +1,117 @@
+span.diff-tag-html {
+	color: grey;
+}
+span.diff-tag-removed {
+	font-size: 100%; text-decoration: line-through; background-color: rgb(253, 198, 198);
+}
+span.diff-tag-added {
+	font-size: 100%; background-color: rgb(204, 255, 204);
+}
+span.diff-tag-conflict {
+	font-size: 100%; background-color: rgb(247, 129, 190);
+}
+span.diff-html-added {
+	font-size: 100%; cursor: pointer; background-color: rgb(204, 255, 204);
+}
+span.diff-html-removed {
+	font-size: 100%; text-decoration: line-through; cursor: pointer; background-color: rgb(253, 198, 198);
+}
+span.diff-html-changed {
+	background: url("../images/diffunderline.gif") repeat-x bottom; cursor: pointer;
+}
+span.diff-html-conflict {
+	background-color: rgb(247, 129, 190);
+}
+span.diff-html-selected {
+	cursor: pointer; background-color: rgb(255, 136, 0);
+}
+span.diff-html-selected img {
+	border: 2px solid rgb(255, 136, 0); border-image: none;
+}
+span.diff-html-added img {
+	border: 2px solid rgb(204, 255, 204); border-image: none;
+}
+span.diff-html-removed img {
+	border: 2px solid rgb(253, 198, 198); border-image: none;
+}
+span.diff-html-changed img {
+	border: 2px dotted rgb(0, 0, 153); border-image: none;
+}
+div.diff-removed-image {
+	width: 200px; height: 300px; position: absolute; opacity: 0.55; -moz-opacity: 0.55;
+}
+div.diff-added-image {
+	width: 200px; height: 300px; position: absolute; opacity: 0.55; -moz-opacity: 0.55;
+}
+div.diff-conflict-image {
+	width: 200px; height: 300px; position: absolute; opacity: 0.55; -moz-opacity: 0.55;
+}
+div.diff-removed-image {
+	margin: 2px;
+}
+div.diff-added-image {
+	margin: 2px;
+}
+div.diff-conflict-image {
+	margin: 2px;
+}
+div.diff-removed-image {
+	background: url("../images/diffmin.gif") rgb(253, 198, 198);
+}
+div.diff-added-image {
+	background: url("../images/diffplus.gif") no-repeat rgb(204, 255, 204);
+}
+div.diff-conflict-image {
+	background: url("../images/diffconflict.gif") no-repeat rgb(247, 129, 190);
+}
+img.diff-icon {
+	background: url("../images/bg_rounded.gif") rgb(255, 136, 0); border: 0px currentColor; border-image: none; width: 16px; height: 16px;
+}
+table.diff-tooltip-link {
+	width: 100%; text-align: center; vertical-align: middle;
+}
+table.diff-tooltip-link-changed {
+	width: 100%; text-align: center; vertical-align: middle;
+}
+table.diff-tooltip-link-changed {
+	padding-top: 3px; margin-top: 3px; border-top-color: rgb(0, 0, 0); border-top-width: thin; border-top-style: dashed;
+}
+td.diff-tooltip-prev {
+	text-align: left;
+}
+td.diff-tooltip-next {
+	text-align: right;
+}
+table.diffpage-html-firstlast {
+	width: 100%; vertical-align: middle;
+}
+div.diff-topbar {
+	border-right-color: rgb(255, 136, 0); border-bottom-color: rgb(255, 136, 0); border-left-color: rgb(255, 136, 0); border-right-width: 1px; border-bottom-width: 2px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; background-color: rgb(255, 245, 245);
+}
+a.diffpage-html-a {
+	color: rgb(255, 136, 0); text-decoration: none;
+}
+a.diffpage-html-a:hover {
+	color: rgb(255, 136, 0); text-decoration: none;
+}
+a.diffpage-html-a:link {
+	color: rgb(255, 136, 0); text-decoration: none;
+}
+a.diffpage-html-a:visited {
+	color: rgb(255, 136, 0); text-decoration: none;
+}
+a.diffpage-html-a:active {
+	color: rgb(255, 136, 0); text-decoration: none;
+}
+.diffpage-html-firstlast a img {
+	vertical-align: middle;
+}
+.dsydiff-prevnextnav a img {
+	vertical-align: middle;
+}
+ul.changelist {
+	padding-left: 15px;
+}
+body {
+	margin-top: 0px;
+}

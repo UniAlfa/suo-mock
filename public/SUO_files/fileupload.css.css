@@ -1,0 +1,99 @@
+.ui-fileupload-buttonbar .ui-fileupload-choose input {
+	margin: 0px; top: 0px; right: 0px; font-size: 200px; position: absolute; cursor: pointer; direction: ltr; opacity: 0;
+}
+.ui-fileupload-buttonbar .ui-state-disabled.ui-fileupload-choose input {
+	cursor: default;
+}
+.ui-fileupload-choose {
+	outline: 0px; overflow: hidden; position: relative;
+}
+.ui-fileupload-buttonbar {
+	padding: 0.2em 0.4em;
+}
+.ui-fileupload-buttonbar .ui-button {
+	margin-right: 0.2em; vertical-align: middle;
+}
+.ui-fileupload-content {
+	padding: 0.2em 0.4em; border-top-width: 0px;
+}
+.ui-fileupload-content .ui-progressbar {
+	margin: 0px; top: 5px; width: 200px; height: 20px;
+}
+.ui-fileupload-content .ui-progressbar .ui-progressbar-value {
+	height: 100%;
+}
+.ui-fileupload-content .ui-progressbar-value-legacy {
+	background: url("/suo/javax.faces.resource/fileupload/ie-anim.gif.xhtml?ln=primefaces&v=6.1") repeat-x;
+}
+.ui-fileupload-files {
+	margin: 10px 0px; display: table; border-collapse: collapse; border-spacing: 2px;
+}
+.ui-fileupload-files > div {
+	vertical-align: middle; display: table-row-group;
+}
+.ui-fileupload-row {
+	display: table-row;
+}
+.ui-fileupload-row > div {
+	padding: 4px 10px; display: table-cell;
+}
+.ui-fileupload-row > .ui-widget-content {
+	display: none;
+}
+.ui-fileupload-files img {
+	border: 0px currentColor; border-image: none;
+}
+.ui-state-disabled .ui-state-disabled {
+	opacity: 1;
+}
+.ui-state-disabled input {
+	cursor: default;
+}
+.ui-fileupload-simple {
+	overflow: hidden; vertical-align: middle; display: inline-block; position: relative;
+}
+.ui-fileupload-simple .ui-button {
+	overflow: hidden;
+}
+.ui-fileupload-simple input[type=file] {
+	background: white; outline: 0px; top: 0px; text-align: right; right: 0px; font-size: 100px; display: block; position: absolute; cursor: inherit; min-height: 100%; min-width: 100%; opacity: 0;
+}
+.ui-fileupload-simple .ui-fileupload-filename {
+	margin-left: 0.5em;
+}
+.ui-fluid .ui-fileupload .ui-button {
+	width: auto;
+}
+.ui-fluid .ui-fileupload-content .ui-button-icon-only {
+	width: 2.4em;
+}
+.ui-fileupload-icon-only .ui-button-text {
+	padding-left: 1em;
+}
+@media screen and (max-width:40em)
+{
+.ui-fileupload-content {
+	padding: 0.55em 0.4em;
+}
+.ui-fileupload-files {
+	display: block;
+}
+.ui-fileupload-files > div {
+	display: block;
+}
+.ui-fileupload-row {
+	display: block;
+}
+.ui-fileupload-row > div {
+	display: block;
+}
+.ui-fileupload-buttonbar .ui-button {
+	padding: 0.9em 1em 0.9em 1.2em;
+}
+.ui-fileupload-buttonbar .ui-button .ui-button-text {
+	display: none;
+}
+.ui-fileupload-row > .ui-widget-content {
+	padding: 0px 10px; margin-top: 5px; margin-bottom: 5px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none; display: block;
+}
+}
